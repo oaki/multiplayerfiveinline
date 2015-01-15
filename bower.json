@@ -1,0 +1,19 @@
+{
+  "name": "multiplayerfiveinline1",
+  "version": "0.1.0",
+  "authors": [
+    "Pali"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/oaki/multiplayerfiveinline",
+  "dependencies": {
+    "angular-strap": "~2.1.6"
+  }
+}
